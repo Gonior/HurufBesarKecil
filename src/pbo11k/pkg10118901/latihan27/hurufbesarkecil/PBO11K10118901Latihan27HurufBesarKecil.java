@@ -3,10 +3,10 @@ import java.util.*;
 /**
  *
  * @author ACER
- * Nama     : Firman Alfinas
+ * Nama     : Dedi cahya
  * Kelas    : IF 11-K
- * Nim      : 10118904
- * Deskripsi Program : Program ini berisi program untuk mengganti kalimat ke ukuran besar dan kecil
+ * Nim      : 10118901
+ * Tentang Program : Program ini berisi program untuk mengganti kalimat ke ukuran besar dan kecil
  */
 public class PBO11K10118901Latihan27HurufBesarKecil {
 
